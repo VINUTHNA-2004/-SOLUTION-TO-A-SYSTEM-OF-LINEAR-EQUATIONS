@@ -31,7 +31,7 @@ le=np.linalg.solve(A,B)
 print(le)
 
 ## Output:
-![output]()
+![output](https://github.com/VINUTHNA-2004/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/solving.PNG?raw=true)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
